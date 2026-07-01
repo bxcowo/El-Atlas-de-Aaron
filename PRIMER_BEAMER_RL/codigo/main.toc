@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Introducción}{3}{0}{1}
+\beamer@sectionintoc {2}{Marco teórico}{6}{0}{2}
+\beamer@sectionintoc {3}{Algoritmos de gradiente de política}{21}{0}{3}
+\beamer@sectionintoc {4}{Referencias}{30}{0}{4}
